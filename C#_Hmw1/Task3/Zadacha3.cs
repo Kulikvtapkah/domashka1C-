@@ -4,6 +4,7 @@
 //-3 -> нет
 //7 -> нет
 
+
 Console.WriteLine("введите число, пожалуйста) >>");
 string FirstInput = Console.ReadLine();
 int val= Convert.ToInt32(FirstInput);

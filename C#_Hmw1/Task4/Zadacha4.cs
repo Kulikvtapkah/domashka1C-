@@ -3,6 +3,7 @@
 //5 -> 2, 4
 //8 -> 2, 4, 6, 8
 
+
 Console.WriteLine("Введите число N, пожалуйста) >>");
 string FirstInput = Console.ReadLine();
 int val= Convert.ToInt32(FirstInput);
