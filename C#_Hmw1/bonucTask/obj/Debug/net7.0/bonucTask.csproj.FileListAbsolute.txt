@@ -1,0 +1,15 @@
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\C#_Hmw1\bonucTask\obj\Debug\net7.0\bonucTask.csproj.AssemblyReference.cache
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\C#_Hmw1\bonucTask\obj\Debug\net7.0\bonucTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\C#_Hmw1\bonucTask\obj\Debug\net7.0\bonucTask.AssemblyInfoInputs.cache
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\C#_Hmw1\bonucTask\obj\Debug\net7.0\bonucTask.AssemblyInfo.cs
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\C#_Hmw1\bonucTask\obj\Debug\net7.0\bonucTask.csproj.CoreCompileInputs.cache
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\C#_Hmw1\bonucTask\bin\Debug\net7.0\bonucTask.exe
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\C#_Hmw1\bonucTask\bin\Debug\net7.0\bonucTask.deps.json
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\C#_Hmw1\bonucTask\bin\Debug\net7.0\bonucTask.runtimeconfig.json
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\C#_Hmw1\bonucTask\bin\Debug\net7.0\bonucTask.dll
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\C#_Hmw1\bonucTask\bin\Debug\net7.0\bonucTask.pdb
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\C#_Hmw1\bonucTask\obj\Debug\net7.0\bonucTask.dll
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\C#_Hmw1\bonucTask\obj\Debug\net7.0\refint\bonucTask.dll
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\C#_Hmw1\bonucTask\obj\Debug\net7.0\bonucTask.pdb
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\C#_Hmw1\bonucTask\obj\Debug\net7.0\bonucTask.genruntimeconfig.cache
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\C#_Hmw1\bonucTask\obj\Debug\net7.0\ref\bonucTask.dll

@@ -1,0 +1,15 @@
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\mahou\bin\Debug\net7.0\mahou.exe
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\mahou\bin\Debug\net7.0\mahou.deps.json
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\mahou\bin\Debug\net7.0\mahou.runtimeconfig.json
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\mahou\bin\Debug\net7.0\mahou.dll
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\mahou\bin\Debug\net7.0\mahou.pdb
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\mahou\obj\Debug\net7.0\mahou.csproj.AssemblyReference.cache
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\mahou\obj\Debug\net7.0\mahou.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\mahou\obj\Debug\net7.0\mahou.AssemblyInfoInputs.cache
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\mahou\obj\Debug\net7.0\mahou.AssemblyInfo.cs
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\mahou\obj\Debug\net7.0\mahou.csproj.CoreCompileInputs.cache
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\mahou\obj\Debug\net7.0\mahou.dll
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\mahou\obj\Debug\net7.0\refint\mahou.dll
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\mahou\obj\Debug\net7.0\mahou.pdb
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\mahou\obj\Debug\net7.0\mahou.genruntimeconfig.cache
+C:\Users\Kulik\Desktop\Gik_projects\C#_Homeworks\mahou\obj\Debug\net7.0\ref\mahou.dll
